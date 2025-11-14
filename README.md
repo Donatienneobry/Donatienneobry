@@ -1,4 +1,9 @@
-## Hi there 👋
+## Profile
+
+Confirmed SEO specialist and recently trained in data analysis, I now combine digital strategy with data analysis.﻿ 
+
+## Content
+In my profil you can found my projects and more...
 
 <!--
 **Donatienneobry/Donatienneobry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
