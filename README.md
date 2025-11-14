@@ -5,8 +5,6 @@ Confirmed SEO specialist and recently trained in data analysis, I now combine di
 ## Content
 In my profil you can found my projects and more...
 
-## Tools & Technologies I use
-
 ## Tools, Langages... I use
 CMS :
 <img src="https://github.com/Donatienneobry/Donatienneobry/raw/Development-don/logo_wordpress.png" alt="logo_wordpress" width="50" height="50" /> <img src="https://github.com/Donatienneobry/Donatienneobry/raw/Development-don/logo_wix.png" alt="logo_wix" width="50" height="50" /> 
