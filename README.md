@@ -19,12 +19,11 @@ Data visualisation :
 <img src="https://github.com/Donatienneobry/Donatienneobry/raw/Development-don/logo_power_bi.png" alt="logo_power_bi" width="50" height="50" /> <img src="https://github.com/Donatienneobry/Donatienneobry/raw/Development-don/logo_tableau.png" alt="logo_tableau" width="50" height="50" /> 
 
 Others :
-<img src="https://github.com/Donatienneobry/Donatienneobry/raw/Development-don/logo_word.png" alt="logo_word" width="50" height="50" /> <img src="https://github.com/Donatienneobry/Donatienneobry/raw/Development-don/logo_excel.png" alt="logo_excel" width="50" height="50" />
+<img src="https://github.com/Donatienneobry/Donatienneobry/raw/Development-don/logo_word.png" alt="logo_word" width="50" height="50" /> 
+<img src="https://github.com/Donatienneobry/Donatienneobry/raw/Development-don/logo_excel.png" alt="logo_excel" width="50" height="50" />
 
-
-
-
-
+Connect with me:
+<a href="https://www.linkedin.com/in/donatienne-obry-webmarketing/" target="_blank"><img src="https://github.com/Donatienneobry/Donatienneobry/raw/Development-don/logo_LinkedIn.png" alt="logo_linkedin_donatienne_obry" width="50" height="50" /> <a href="https://www.linkedin.com/in/donatienne-obry-webmarketing/" target="_blank"><img src="https://github.com/Donatienneobry/Donatienneobry/raw/Development-don/logo_Linkedin.png" alt="logo_Linkedin" width="50" height="50" />
 
 <!--
 **Donatienneobry/Donatienneobry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
