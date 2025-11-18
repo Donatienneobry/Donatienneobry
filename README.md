@@ -23,7 +23,7 @@ Others :
 <img src="https://github.com/Donatienneobry/Donatienneobry/raw/Development-don/logo_excel.png" alt="logo_excel" width="50" height="50" />
 
 ## Connect with me
-<a href="https://www.linkedin.com/in/donatienne-obry-webmarketing/" target="_blank">
+<a href="https://www.linkedin.com/in/donatienne-obry-webmarketing/" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/Donatienneobry/Donatienneobry/raw/Development-don/logo_LinkedIn.png" alt="logo_linkedin_donatienne_obry" width="50" height="50" />
 </a>
 
